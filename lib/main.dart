@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'Screens/App.dart';
 import 'Screens/HomePage.dart';
 import 'SplashScreen/Animation_screen.dart';
 
@@ -20,8 +21,9 @@ class MyApp extends StatelessWidget {
       ),
       home: Stack(
         children: [
-              HomePage(),
+              App(),
                IgnorePointer(
+
             child: AnimationScreen(
               color:Colors.deepPurple
             )
