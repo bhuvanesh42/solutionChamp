@@ -2,10 +2,14 @@
 
 A new Flutter project.
 
-![Screenshot_20210411-101218](https://user-images.githubusercontent.com/32215672/114293231-0abdd000-9ab2-11eb-9b0b-574034b799a5.jpg width = "200")
-![Screenshot_20210411-101224](https://user-images.githubusercontent.com/32215672/114293234-10b3b100-9ab2-11eb-9e35-b1c41053156f.jpg)
-![Screenshot_20210411-101231](https://user-images.githubusercontent.com/32215672/114293236-11e4de00-9ab2-11eb-868d-ec89a1887da6.jpg)
-![Screenshot_20210411-101243](https://user-images.githubusercontent.com/32215672/114293238-13160b00-9ab2-11eb-9afd-8f12f851c0fb.jpg)
+
+<img src="https://user-images.githubusercontent.com/32215672/114293231-0abdd000-9ab2-11eb-9b0b-574034b799a5.jpg" width="200" height="400" />
+
+<img src="https://user-images.githubusercontent.com/32215672/114293234-10b3b100-9ab2-11eb-9e35-b1c41053156f.jpg" width="200" height="400" />
+
+<img src="https://user-images.githubusercontent.com/32215672/114293236-11e4de00-9ab2-11eb-868d-ec89a1887da6.jpg" width="200" height="400" />
+
+<img src="https://user-images.githubusercontent.com/32215672/114293238-13160b00-9ab2-11eb-9afd-8f12f851c0fb.jpg" width="200" height="400" />
 
 ## Getting Started
 
